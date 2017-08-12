@@ -1,0 +1,6 @@
+[submodule "apertium-kaz"]
+	path = apertium-kaz
+	url = ../apertium-kaz
+[submodule "kaz"]
+	path = kaz
+	url = git@github.com:jonorthwash/kaz.git
